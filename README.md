@@ -1,0 +1,1 @@
+# mercury-packer-templates
